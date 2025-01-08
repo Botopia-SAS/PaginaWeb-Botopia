@@ -1,0 +1,154 @@
+{
+  "services": {
+    "title": "Our Services",
+    "categories": {
+      "software": "Custom Software",
+      "engineering": "Engineering Solutions",
+      "design": "Design",
+      "chatbots": "Chatbots"
+    },
+    "software": {
+      "custom_software": "Custom Technology",
+      "custom_software_desc": "We create custom software tailored to your needs.",
+      "web_development": "Website Development",
+      "web_development_desc": "We build modern, functional, and optimized websites.",
+      "mobile_apps": "Mobile App Development",
+      "mobile_apps_desc": "Innovative mobile apps to boost your presence on mobile devices.",
+      "cloud_infrastructure": "Cloud Infrastructure",
+      "cloud_infrastructure_desc": "We implement and manage cloud solutions for greater flexibility and scalability.",
+      "mvp": "MVP Development",
+      "mvp_desc": "We create minimum viable products to quickly validate business ideas.",
+      "ecommerce": "E-commerce Development",
+      "ecommerce_desc": "Custom online stores to maximize your sales and user experience.",
+      "ai_integration": "AI Integration",
+      "ai_integration_desc": "We elevate your applications to the next level with custom artificial intelligence."
+    },
+    "engineering": {
+      "automation": "Automation",
+      "automation_desc": "We automate processes in your company to make them more effective, efficient, and competitive.",
+      "digital_transformation": "Digital Transformation",
+      "digital_transformation_desc": "We implement advanced technologies to digitally transform your business.",
+      "robots": "Robots",
+      "robots_desc": "We design and implement robotic solutions to optimize your operations.",
+      "business_consulting": "Business Consulting",
+      "business_consulting_desc": "We help you identify opportunities and strategies to maximize your company's success."
+    },
+    "design": {
+      "ux_ui": "UX/UI Design",
+      "ux_ui_desc": "We create attractive and functional user experiences for your projects."
+    },
+    "chatbots": {
+      "automation": "Response Automation",
+      "automation_desc": "We develop chatbots that automate customer service efficiently.",
+      "whatsapp": "WhatsApp Integration",
+      "whatsapp_desc": "We integrate chatbots with WhatsApp to improve communication with your customers.",
+      "data_analysis": "Customer Data Analysis",
+      "data_analysis_desc": "We collect and analyze data to optimize interaction with your customers.",
+      "flow_customization": "Conversational Flow Customization",
+      "flow_customization_desc": "We design custom chatbots to offer natural and effective interactions."
+    },
+    "view_more": "View more"
+  },
+  "customers": {
+    "title": "They trust us"
+  },
+  "hero": {
+    "greeting": "Hello! We are Botopia",
+    "tagline1": "Technology that improves your life",
+    "tagline2": "We create innovative solutions",
+    "tagline3": "Boost your business with technology",
+    "cta": "Request a quote today!"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "work": "Portfolio",
+    "contact": "Contact",
+    "submenu": {
+      "consultoria": {
+        "name": "Engineering Solutions",
+        "items": [
+          "Automation",
+          "Digital Transformation",
+          "Robots",
+          "Business Consulting"
+        ]
+      },
+      "tecnologia": {
+        "name": "Software",
+        "items": [
+          "Custom Technology",
+          "Website Development",
+          "Mobile Apps",
+          "Cloud Infrastructure",
+          "MVP Development",
+          "E-commerce",
+          "AI Integration"
+        ]
+      },
+      "design": {
+        "name": "Design",
+        "items": ["UX/UI", "Branding & Naming"]
+      }
+    }
+  },
+  "about": {
+    "title": "Meet",
+    "description": "At Botopia, our passion is to transform ideas into unique and innovative solutions. We offer personalized engineering, software development, and intelligent chatbots that optimize every process and ensure exceptional results.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To create personalized technological solutions that revolutionize business operations. We empower our clients with unique tools that optimize processes and enhance user experience."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be recognized as a global leader in technological innovation, standing out for our creativity, attention to detail, and commitment to excellence in every project we undertake."
+    },
+    "values": {
+      "title": "Our Values",
+      "list": [
+        "Constant innovation in every project.",
+        "Unique personalization for each client.",
+        "Commitment to quality and excellence.",
+        "Professional ethics in all our actions."
+      ]
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "description": "At Botopia, we deeply value our team. We are committed to creating an inclusive, innovative, and supportive work environment where every member can grow personally and professionally. We believe that the success of our projects begins with the well-being of our employees."
+    }
+  },
+  "footer": {
+    "title": "Botopia",
+    "tagline": "Let's start transforming the future together!",
+    "quickAccess": "Quick Access",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "workWithUs": "Work with Us",
+    "email": "contact@botopia.tech",
+    "phone": "(+57) 322 872 6267",
+    "rights": "© 2024 All rights reserved to Botopia.",
+    "contactTitle": "Contact"
+  },
+  "contact": {
+    "title": "Contact",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message"
+    },
+    "placeholders": {
+      "name": "e.g., Isaac",
+      "email": "e.g., botopia.sas@gmail.com",
+      "phone": "Optional, but it will help us contact you",
+      "message": "I would like to make my dream come true..."
+    },
+    "button": "Send",
+    "loading": "Sending...",
+    "alerts": {
+      "success": "Thank you for your message 😃",
+      "error": "I didn't receive your message 😢"
+    }
+  }
+}

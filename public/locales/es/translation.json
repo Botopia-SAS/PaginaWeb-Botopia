@@ -1,0 +1,154 @@
+{
+  "services": {
+    "title": "Nuestros Servicios",
+    "categories": {
+      "software": "Software a Medida",
+      "engineering": "Soluciones de Ingeniería",
+      "design": "Diseño",
+      "chatbots": "Chatbots"
+    },
+    "software": {
+      "custom_software": "Tecnología a Medida",
+      "custom_software_desc": "Creamos software personalizado adaptado a tus necesidades.",
+      "web_development": "Desarrollo de Sitios Web",
+      "web_development_desc": "Construimos sitios web modernos, funcionales y optimizados.",
+      "mobile_apps": "Desarrollo de Aplicaciones Móviles",
+      "mobile_apps_desc": "Aplicaciones móviles innovadoras para impulsar tu presencia en dispositivos móviles.",
+      "cloud_infrastructure": "Infraestructura en la Nube",
+      "cloud_infrastructure_desc": "Implementamos y gestionamos soluciones en la nube para mayor flexibilidad y escalabilidad.",
+      "mvp": "Desarrollo de MVP",
+      "mvp_desc": "Creamos productos mínimos viables para validar ideas de negocio rápidamente.",
+      "ecommerce": "Desarrollo de E-commerce",
+      "ecommerce_desc": "Tiendas online personalizadas para maximizar tus ventas y experiencia de usuario.",
+      "ai_integration": "Integración con AI",
+      "ai_integration_desc": "Llevamos tus aplicaciones al siguiente nivel con inteligencia artificial personalizada."
+    },
+    "engineering": {
+      "automation": "Automatización",
+      "automation_desc": "Automatizamos procesos en tu empresa para hacerlos más eficaces, eficientes y competitivos.",
+      "digital_transformation": "Innovación y Transformación Digital",
+      "digital_transformation_desc": "Implementamos tecnologías avanzadas para transformar digitalmente tu negocio.",
+      "robots": "Robots",
+      "robots_desc": "Diseñamos e implementamos soluciones robóticas para optimizar tus operaciones.",
+      "business_consulting": "Consultoría de Negocios",
+      "business_consulting_desc": "Te ayudamos a identificar oportunidades y estrategias para maximizar el éxito de tu empresa."
+    },
+    "design": {
+      "ux_ui": "Diseño UX/UI",
+      "ux_ui_desc": "Creamos experiencias de usuario atractivas y funcionales para tus proyectos."
+    },
+    "chatbots": {
+      "automation": "Automatización de Respuestas",
+      "automation_desc": "Desarrollamos chatbots que automatizan la atención al cliente de forma eficiente.",
+      "whatsapp": "Integración con WhatsApp",
+      "whatsapp_desc": "Integramos chatbots con WhatsApp para mejorar la comunicación con tus clientes.",
+      "data_analysis": "Análisis de Datos del Cliente",
+      "data_analysis_desc": "Recolectamos y analizamos datos para optimizar la interacción con tus clientes.",
+      "flow_customization": "Personalización del Flujo Conversacional",
+      "flow_customization_desc": "Diseñamos chatbots personalizados para ofrecer interacciones naturales y efectivas."
+    },
+    "view_more": "Ver más"
+  },
+  "customers": {
+    "title": "Ellos confían en nosotros"
+  },
+  "hero": {
+    "greeting": "¡Hola! Somos Botopia",
+    "tagline1": "Tecnología que mejora tu vida",
+    "tagline2": "Creamos soluciones innovadoras",
+    "tagline3": "Impulsa tu negocio con tecnología",
+    "cta": "¡Solicita un presupuesto hoy!"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre nosotros",
+    "services": "Servicios",
+    "work": "Portafolio",
+    "contact": "Contacto",
+    "submenu": {
+      "consultoria": {
+        "name": "Soluciones de ingeniería",
+        "items": [
+          "Automatización",
+          "Innovación y Transformación Digital",
+          "Robots",
+          "Consultoría de Negocios"
+        ]
+      },
+      "tecnologia": {
+        "name": "Software",
+        "items": [
+          "Tecnología a Medida",
+          "Desarrollo de Sitios Web",
+          "Aplicaciones Móviles",
+          "Infraestructura en la Nube",
+          "Desarrollo de MVP",
+          "E-commerce",
+          "Integración con AI"
+        ]
+      },
+      "design": {
+        "name": "Diseño",
+        "items": ["UX/UI", "Branding & Naming"]
+      }
+    }
+  },
+  "about": {
+    "title": "Conoce a",
+    "description": "En Botopia, nuestra pasión es transformar ideas en soluciones únicas e innovadoras. Ofrecemos ingeniería personalizada, desarrollo de software y chatbots inteligentes que optimizan cada proceso y garantizan resultados excepcionales.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Crear soluciones tecnológicas personalizadas que revolucionen las operaciones empresariales. Empoderamos a nuestros clientes con herramientas únicas que optimizan procesos y mejoran la experiencia del usuario."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser reconocidos como un líder global en innovación tecnológica, destacándonos por nuestra creatividad, atención al detalle y compromiso con la excelencia en cada proyecto que emprendemos."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "list": [
+        "Innovación constante en cada proyecto.",
+        "Personalización única para cada cliente.",
+        "Compromiso con la calidad y la excelencia.",
+        "Ética profesional en todas nuestras acciones."
+      ]
+    },
+    "commitment": {
+      "title": "Nuestro Compromiso",
+      "description": "En Botopia, valoramos profundamente a nuestro equipo. Nos comprometemos a crear un ambiente laboral inclusivo, innovador y de apoyo, donde cada miembro pueda crecer personal y profesionalmente. Creemos que el éxito de nuestros proyectos comienza con el bienestar de nuestros empleados."
+    }
+  },
+  "footer": {
+    "title": "Botopia",
+    "tagline": "¡Comencemos a transformar el futuro juntos!",
+    "quickAccess": "Accesos rápidos",
+    "terms": "Términos y condiciones",
+    "privacy": "Políticas de privacidad",
+    "workWithUs": "Trabaja con nosotros",
+    "email": "contacto@botopia.tech",
+    "phone": "(+57) 322 872 6267",
+    "rights": "© 2024 Todos los derechos reservados a Botopia.",
+    "contactTitle": "Contacto"
+  },
+  "contact": {
+    "title": "Contacto",
+    "labels": {
+      "name": "Nombre",
+      "email": "Correo",
+      "phone": "Celular",
+      "message": "Mensaje"
+    },
+    "placeholders": {
+      "name": "ej: Isaac",
+      "email": "ej: botopia.sas@gmail.com",
+      "phone": "No es obligatorio, pero nos ayudará a contactarte",
+      "message": "Me gustaría hacer mi sueño realidad..."
+    },
+    "button": "Enviar",
+    "loading": "Enviando...",
+    "alerts": {
+      "success": "Gracias por tu mensaje 😃",
+      "error": "No recibí tu mensaje 😢"
+    }
+  }
+}
